@@ -25,7 +25,7 @@ Lab Topology
 ~~~~~~~~~~~~
 
 
-  .. image:: |image001|  
+  .. image:: |image000|  
 
 The following components have been included in your lab environment:
 
